@@ -5,6 +5,10 @@
 
 > **DocumentSummary Official website**: [AI-TOOLKIT DocumentSummary](https://ai-toolkit.blogspot.com/p/document-summary-creator.html)
 
+> IMPORTANT INFORMATION ABOUT THE REQUIRED SERIAL NUMBER: in case you do not have a serial number then register on the AI-TOOLKIT Helpdesk (see hereunder, please fill in your real name and e-mail) and get automatically the serial number (FREE for non-commercial purposes).
+> AI-TOOLKIT HELPDESK: **[AI-TOOLKIT HELPDESK FOR SERIAL NUMBER](https://aitoolkit.freshdesk.com/support/solutions/articles/26000016343)**
+>
+
 # DocumentSummary
 DocumentSummary can be used for creating a summary for any text document. **You can summarize simple text, PDF files containing text, HTML files, etc. The text documents can be located on your computer or even on the internet** (internet connection is needed).
 
@@ -15,7 +19,4 @@ Please read the built-in help for each module for more information.
 
 **DocumentSummary** is Microsoft Windows 64bit compatible (Windows 7, 8 and 10).
 
-> IMPORTANT INFORMATION ABOUT THE REQUIRED SERIAL NUMBER: in case you do not have a serial number then register on the AI-TOOLKIT Helpdesk (see hereunder, please fill in your real name and e-mail) and get automatically the serial number (FREE for non-commercial purposes).
-> AI-TOOLKIT HELPDESK: **[AI-TOOLKIT HELPDESK FOR SERIAL NUMBER](https://aitoolkit.freshdesk.com/support/solutions/articles/26000016343)**
->
 
