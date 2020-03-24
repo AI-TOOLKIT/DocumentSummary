@@ -5,7 +5,7 @@
 
 > **DocumentSummary Official website**: [AI-TOOLKIT DocumentSummary](https://ai-toolkit.blogspot.com/p/document-summary-creator.html)
 
-> IMPORTANT INFORMATION ABOUT THE REQUIRED SERIAL NUMBER: in case you do not have a serial number then register on the AI-TOOLKIT Helpdesk (see hereunder, please fill in your real name and e-mail) and get automatically the serial number (FREE for non-commercial purposes).
+> **IMPORTANT INFORMATION ABOUT THE REQUIRED SERIAL NUMBER**: in case you do not have a serial number then register on the AI-TOOLKIT Helpdesk (see hereunder, please fill in your real name and e-mail) and get automatically the serial number (FREE for non-commercial purposes).
 > AI-TOOLKIT HELPDESK: **[AI-TOOLKIT HELPDESK FOR SERIAL NUMBER](https://aitoolkit.freshdesk.com/support/solutions/articles/26000016343)**
 >
 
